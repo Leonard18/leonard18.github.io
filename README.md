@@ -1,2 +1,2 @@
-### leonard18.github.io
+# leonard18.github.io
 My portfolio
